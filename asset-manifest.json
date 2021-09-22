@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-interior-design-app/static/css/main.cdfb6b8f.chunk.css",
+    "main.js": "/react-interior-design-app/static/js/main.ae0576c9.chunk.js",
+    "main.js.map": "/react-interior-design-app/static/js/main.ae0576c9.chunk.js.map",
+    "runtime-main.js": "/react-interior-design-app/static/js/runtime-main.90a5a6fc.js",
+    "runtime-main.js.map": "/react-interior-design-app/static/js/runtime-main.90a5a6fc.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/react-interior-design-app/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.c9ff8fcc.chunk.js": "/react-interior-design-app/static/js/2.c9ff8fcc.chunk.js",
+    "static/js/2.c9ff8fcc.chunk.js.map": "/react-interior-design-app/static/js/2.c9ff8fcc.chunk.js.map",
+    "static/js/3.323eaf49.chunk.js": "/react-interior-design-app/static/js/3.323eaf49.chunk.js",
+    "static/js/3.323eaf49.chunk.js.map": "/react-interior-design-app/static/js/3.323eaf49.chunk.js.map",
+    "index.html": "/react-interior-design-app/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/react-interior-design-app/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.cdfb6b8f.chunk.css.map": "/react-interior-design-app/static/css/main.cdfb6b8f.chunk.css.map",
+    "static/js/2.c9ff8fcc.chunk.js.LICENSE.txt": "/react-interior-design-app/static/js/2.c9ff8fcc.chunk.js.LICENSE.txt",
+    "static/media/exterior4.0301e6f0.jpg": "/react-interior-design-app/static/media/exterior4.0301e6f0.jpg",
+    "static/media/house1.b981c9a3.jpg": "/react-interior-design-app/static/media/house1.b981c9a3.jpg",
+    "static/media/house2.6bd4a941.jpg": "/react-interior-design-app/static/media/house2.6bd4a941.jpg",
+    "static/media/house3.20588ac0.jpg": "/react-interior-design-app/static/media/house3.20588ac0.jpg",
+    "static/media/house4.6178770e.jpg": "/react-interior-design-app/static/media/house4.6178770e.jpg",
+    "static/media/house5.58e74d68.jpg": "/react-interior-design-app/static/media/house5.58e74d68.jpg",
+    "static/media/interior-1.ffee7a49.jpg": "/react-interior-design-app/static/media/interior-1.ffee7a49.jpg",
+    "static/media/interior-2.7f45d568.jpg": "/react-interior-design-app/static/media/interior-2.7f45d568.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90a5a6fc.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.c9ff8fcc.chunk.js",
+    "static/css/main.cdfb6b8f.chunk.css",
+    "static/js/main.ae0576c9.chunk.js"
+  ]
+}
